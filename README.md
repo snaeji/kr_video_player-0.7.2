@@ -1,3 +1,5 @@
+Copied from: https://github.com/flutter/plugins/tree/master/packages/video_player
+
 # Video Player plugin for Flutter
 
 [![pub package](https://img.shields.io/pub/v/video_player.svg)](https://pub.dartlang.org/packages/video_player)
